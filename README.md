@@ -21,6 +21,7 @@ UniversalBox 是一款基于 **Jetpack Compose** 开发的 Android 应用。它�
 * **Libraries**: Lottie, Coil, ML Kit, Navigation Compose
 
 ## 📸 预览 (Screenshots)
+![Uploading 屏幕截图(1262).png…]()
 
 
 *Developed by Wan Jiangyun for 2026 Capstone Project.*
